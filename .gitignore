@@ -18,4 +18,16 @@ dist/
 
 setup.py
 
+<<<<<<< HEAD
 data/
+=======
+<<<<<<< HEAD
+data/
+=======
+data/
+
+datasets/
+
+.vscode/
+>>>>>>> 43f2c33 (241021 first commit)
+>>>>>>> 76e2ea0 (241021 first commit)

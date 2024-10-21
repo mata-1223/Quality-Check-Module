@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 76e2ea0 (241021 first commit)
 et-xmlfile==1.1.0
 numpy==1.26.3
 openpyxl==3.1.2
@@ -6,3 +10,66 @@ python-dateutil==2.8.2
 pytz==2023.3.post1
 six==1.16.0
 tzdata==2023.4
+<<<<<<< HEAD
+=======
+=======
+build==1.0.3
+CacheControl==0.14.0
+certifi==2024.2.2
+cffi==1.16.0
+charset-normalizer==3.3.2
+cleo==2.1.0
+crashtest==0.4.1
+distlib==0.3.8
+docutils==0.20.1
+dulwich==0.21.7
+et-xmlfile==1.1.0
+fastjsonschema==2.19.1
+filelock==3.13.1
+idna==3.6
+importlib-metadata==7.0.1
+installer==0.7.0
+jaraco.classes==3.3.1
+keyring==24.3.1
+markdown-it-py==3.0.0
+mdurl==0.1.2
+more-itertools==10.2.0
+msgpack==1.0.7
+nh3==0.2.15
+numpy==1.26.3
+openpyxl==3.1.2
+packaging==23.2
+pandas==2.2.0
+pexpect==4.9.0
+pillow==10.3.0
+pkginfo==1.9.6
+platformdirs==4.2.0
+poetry==1.8.1
+poetry-core==1.9.0
+poetry-plugin-export==1.6.0
+ptyprocess==0.7.0
+pycparser==2.21
+Pygments==2.17.2
+pyproject_hooks==1.0.0
+python-dateutil==2.8.2
+pytz==2023.3.post1
+PyYAML==6.0.1
+rapidfuzz==3.6.1
+readme_renderer==43.0
+requests==2.31.0
+requests-toolbelt==1.0.0
+rfc3986==2.0.0
+rich==13.7.0
+shellingham==1.5.4
+six==1.16.0
+tomli==2.0.1
+tomlkit==0.12.4
+trove-classifiers==2024.2.23
+twine==5.0.0
+tzdata==2023.4
+urllib3==2.2.1
+virtualenv==20.25.1
+xattr==1.1.0
+zipp==3.17.0
+>>>>>>> 43f2c33 (241021 first commit)
+>>>>>>> 76e2ea0 (241021 first commit)

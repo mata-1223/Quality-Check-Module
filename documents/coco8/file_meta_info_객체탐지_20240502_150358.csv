@@ -1,0 +1,9 @@
+﻿No,파일명,데이터명,데이터셋구분,이미지파일경로,라벨파일경로,너비,높이,객체개수
+1,000000000009,coco8,train,datasets/coco8/images/train/000000000009.jpg,datasets/coco8/labels/train/000000000009.txt,640,480,8
+2,000000000025,coco8,train,datasets/coco8/images/train/000000000025.jpg,datasets/coco8/labels/train/000000000025.txt,640,426,2
+3,000000000030,coco8,train,datasets/coco8/images/train/000000000030.jpg,datasets/coco8/labels/train/000000000030.txt,640,428,2
+4,000000000034,coco8,train,datasets/coco8/images/train/000000000034.jpg,datasets/coco8/labels/train/000000000034.txt,640,425,1
+5,000000000036,coco8,val,datasets/coco8/images/val/000000000036.jpg,datasets/coco8/labels/val/000000000036.txt,481,640,2
+6,000000000042,coco8,val,datasets/coco8/images/val/000000000042.jpg,datasets/coco8/labels/val/000000000042.txt,640,478,1
+7,000000000049,coco8,val,datasets/coco8/images/val/000000000049.jpg,datasets/coco8/labels/val/000000000049.txt,381,500,9
+8,000000000061,coco8,val,datasets/coco8/images/val/000000000061.jpg,datasets/coco8/labels/val/000000000061.txt,640,488,5

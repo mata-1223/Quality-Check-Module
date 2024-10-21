@@ -1,0 +1,30 @@
+# Example usage: python train.py --data fire_smoke.yaml
+# parent
+# ├── yolov5
+# └── datasets
+#     └──fire_smoke   ← downloads here
+
+path: ../datasets/fire_smoke
+train: images/train
+val: images/val
+test: # (optional)
+
+
+# Classes
+names: 
+    0: Nope
+    1: BlackSmoke
+    2: GreySmoke
+    3: WhiteSmoke
+    4: Fire
+    5: Cloud
+    6: Fog
+    7: Light
+    8: SunLight
+    9: Object
+    10: Vegetation
+    11: Unrelated
+
+# Download script/URL (optional)
+# https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=176
+download: 
