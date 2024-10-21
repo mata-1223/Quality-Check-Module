@@ -72,16 +72,16 @@ if __name__ == "__main__":
 		* data_name: 데이터 테이블명 or 데이터 파일명 
 		* Dataframe: 데이터를 불러온 Dataframe 형상
 * 예시
-![NexR_qc_Info_002](https://github.com/mata-1223/NexR_qc/assets/131343466/5e28e8bf-37f2-4cc0-acca-c288bfbd5ccb)
+![NexR_qc_Info_002](https://github.com/mata-1223/NexR_qc/blob/test/img/NexR_qc_Info_002.png)
 
 ##### Output
 * 결과 파일 경로: output/QC_결과서.xlsx
 * 예시
 1) 예시 1: 테이블 리스트 시트
-![NexR_qc_Info_003](https://github.com/mata-1223/NexR_qc/assets/131343466/54605ebe-d45c-4ba9-b219-dd177e08a6b7)
+![NexR_qc_Info_003](https://github.com/mata-1223/NexR_qc/blob/test/img/NexR_qc_Info_003.png)
 
 2) 예시 2: 데이터 별 QC 수행 결과 시트
-![NexR_qc_Info_001](https://github.com/mata-1223/NexR_qc/assets/131343466/a1613944-4812-40a2-9ec3-6452c104a96b)
+![NexR_qc_Info_001](https://github.com/mata-1223/NexR_qc/blob/test/img/NexR_qc_Info_001.png)
 
 ### 이미지 데이터 QC
 
@@ -205,9 +205,12 @@ if __name__ == "__main__":
 ```
 
 #### Output 형상
+
 ##### 일반
-![NexR_qc_Info_003](https://github.com/mata-1223/NexR_qc/blob/test/img/NexR_qc_Info_001.png)
+![NexR_qc_Info_004](https://github.com/mata-1223/NexR_qc/blob/test/img/NexR_qc_Info_004.png)
 
-![NexR_qc_Info_003](https://github.com/mata-1223/NexR_qc/blob/test/img/NexR_qc_Info_002.png)
+##### 분류
+![NexR_qc_Info_005](https://github.com/mata-1223/NexR_qc/blob/test/img/NexR_qc_Info_005.png)
 
-![NexR_qc_Info_003](https://github.com/mata-1223/NexR_qc/blob/test/img/NexR_qc_Info_003.png)
+##### 객체탐지
+![NexR_qc_Info_006](https://github.com/mata-1223/NexR_qc/blob/test/img/NexR_qc_Info_006.png)
